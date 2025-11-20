@@ -50,7 +50,8 @@ https://github.com/tu-usuario/tu-repo               # Tu repositorio en GitHub
 https://tu-usuario.github.io/tu-repo/               # Tu GitHub Pages (si está activo)
 
 
-# Subir TODO de una vez:
+# EJEMPLO Subir TODO de una vez:
+git status
 git add .
 git commit -m "feat: agregar funcionalidad completa"
 git push origin main
