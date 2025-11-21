@@ -1,12 +1,9 @@
-﻿# ¡Hola, soy Zawut! 👋
+# Hey, I'm Zawut! 👋
 
-**Aprendiendo Java - Desarrollador de Aplicaciones Multiplataforma**
+**Learning Java - Multiplatform Application Developer**
 
-♨️ Mi combustible: **Café y código Java**.
-🤝 Mi misión: **Colaborar en proyectos de Apps Android** para poner en práctica lo que aprendo y crear algo increíble.
-🎯 Enfocado en transformar ideas en aplicaciones funcionales y elegantes.
+♨️ My fuel: Coffee and Java code.
+🤝 My mission: Collaborate on Android App projects to put what I learn into practice and create something incredible.
+🎯 Focused on transforming ideas into functional and elegant applications.
 
-
-**¿Tienes un proyecto? Hablemos. ¡Juntos podemos hacer algo genial!**
-
-
+**Got a project? Let's talk. Together we can make something great!**
