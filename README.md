@@ -1,6 +1,6 @@
 ﻿# ¡Hola, soy Zawut! 👋
 
-**Aprendiendo Java | Construyendo el futuro de Android, una app a la vez**
+**Aprendiendo Java | Desarrollador de Aplicaciones Multiplataforma**
 
 ♨️ Mi combustible: **Café y código Java**.
 🤝 Mi misión: **Colaborar en proyectos de Apps Android** para poner en práctica lo que aprendo y crear algo increíble.
@@ -8,3 +8,4 @@
 
 
 **¿Tienes un proyecto? Hablemos. ¡Juntos podemos hacer algo genial!**
+
